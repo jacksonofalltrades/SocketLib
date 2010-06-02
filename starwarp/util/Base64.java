@@ -9,7 +9,9 @@ package starwarp.util;
  * @version 1.5, 12/19/03
  * @see     Preferences
  * @since   1.4
- */public class Base64 {
+ */
+public class Base64 
+{	 
 	    /**
 	     * Translates the specified byte array into a Base64 string as per
 	     * Preferences.put(byte[]).
